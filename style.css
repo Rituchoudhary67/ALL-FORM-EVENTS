@@ -1,0 +1,27 @@
+* {
+    margin: 10px;
+    padding: 0;
+}
+
+#input_id1 ,#input_id2, #input_id3, #input_id4{
+    color: white;
+   font-size: x-large;
+   border-radius: 10px;
+}
+#input_id2 {
+    background-color: red;
+}
+#input_id3 {
+    background-color:black
+}
+#input_id4 {
+    background-color:darkred;
+    padding: 10px;
+}
+#submit_btn {
+    background-color:blue;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
